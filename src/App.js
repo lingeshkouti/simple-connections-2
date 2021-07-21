@@ -5,6 +5,7 @@ import './App.css';
 
 export default class App extends Component {
     render() {
+        console.log('I am from simple-connections-2 repo')
         return (
             <div>
                 <Header/>
